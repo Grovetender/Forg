@@ -3887,7 +3887,7 @@
         {
             "id": "382961a1-e615-4b92-92a7-f1a791b50b7a",
             "name": "Logo",
-            "backgroundId": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
+            "backgroundId": "43b2cf73-2814-4ddd-91b9-a57a743b2d4f",
             "x": 111,
             "y": 264,
             "width": 20,
@@ -6102,6 +6102,15 @@
             "imageHeight": 144,
             "filename": "logo.png",
             "tileColors": []
+        },
+        {
+            "id": "43b2cf73-2814-4ddd-91b9-a57a743b2d4f",
+            "name": "logo2",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "logo2.png"
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -9352,9 +9361,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            429,
-            142,
-            142
+            427,
+            141,
+            141
         ],
         "showNavigator": true,
         "defaultFontId": "26fa15df-3318-44ad-8bfd-feff8ba7991d",

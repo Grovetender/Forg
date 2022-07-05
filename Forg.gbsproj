@@ -6110,7 +6110,8 @@
             "height": 18,
             "imageWidth": 160,
             "imageHeight": 144,
-            "filename": "logo2.png"
+            "filename": "logo2.png",
+            "tileColors": []
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -8167,7 +8168,7 @@
                     ]
                 }
             ],
-            "numTiles": 12,
+            "numTiles": 8,
             "canvasWidth": 16,
             "canvasHeight": 16,
             "boundsX": 0,
@@ -9361,9 +9362,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            427,
-            141,
-            141
+            422,
+            139,
+            139
         ],
         "showNavigator": true,
         "defaultFontId": "26fa15df-3318-44ad-8bfd-feff8ba7991d",
