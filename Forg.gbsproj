@@ -9332,8 +9332,8 @@
         "startDirection": "right",
         "showCollisions": true,
         "showConnections": true,
-        "worldScrollX": 0,
-        "worldScrollY": 0,
+        "worldScrollX": 37,
+        "worldScrollY": 27,
         "zoom": 100,
         "customColorsEnabled": false,
         "sgbEnabled": false,
@@ -9362,9 +9362,9 @@
         "defaultUIPaletteId": "default-ui",
         "playerPaletteId": "",
         "navigatorSplitSizes": [
-            422,
-            139,
-            139
+            427,
+            141,
+            141
         ],
         "showNavigator": true,
         "defaultFontId": "26fa15df-3318-44ad-8bfd-feff8ba7991d",
